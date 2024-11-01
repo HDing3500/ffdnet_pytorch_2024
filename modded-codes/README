@@ -1,1 +1,6 @@
 This is where I am putting all the modded codes.
+
+TrainMod.py is for the modded version of train.py, now supposedly with the ability to connect which noisy photo is to the ground truth photo. 
+  Known issues: it tends to run out of memory quite frequently. 
+
+InitializeDataset.py is used to categorize photos from the SIDD dataset into two separate folders while renaming the pictures by identifying the folder in which they are located. 
