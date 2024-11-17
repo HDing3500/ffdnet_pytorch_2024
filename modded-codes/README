@@ -4,3 +4,5 @@ TrainMod.py is for the modded version of train.py, now supposedly with the abili
   Known issues: it tends to run out of memory quite frequently. 
 
 InitializeDataset.py is used to categorize photos from the SIDD dataset into two separate folders while renaming the pictures by identifying the folder in which they are located. 
+
+A sample test dataset can be found here: https://drive.google.com/file/d/1lE9mi-U_URkPr2_c0XzFgAFY1ra9R_nO/view?usp=sharing
